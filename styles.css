@@ -302,6 +302,7 @@ a.nav_item_title:hover {
     border: 2px solid rgba(241, 205, 179, 1);
     background: #F6F6F6;
     cursor: pointer;
+    z-index: 1;
 }
 .pets_arrow {
     height: 6px;
@@ -311,6 +312,7 @@ a.nav_item_title:hover {
     position: absolute;
     color: rgba(41, 41, 41, 1);
     background: url(./assets/Arrow.svg) no-repeat;
+    pointer-events: none;
 }
 .button_arrow:hover, .pets_arrow:hover {
     cursor: pointer;
@@ -432,12 +434,14 @@ a.nav_item_title:hover {
     position: absolute;
     background: #F6F6F6;
     cursor: pointer;
+    z-index: 1;
 }  
 .pets_arrow_two {
     height: 6px;
     width: 14px;
     display: block;
     background: url(./assets/Arrow2.svg) no-repeat;
+    pointer-events: none;
 }
 .get_to_know_button {
     height: 52px;
@@ -1197,6 +1201,7 @@ a.nav_pet_item_title:hover {
         width: 320px;
         transform: translateX(0%);
         transition: transform 0.7s;
+        z-index: 1;
     }
     .nav_item_title {
         font-size: 32px;
