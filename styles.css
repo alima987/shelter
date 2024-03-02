@@ -1420,6 +1420,7 @@ a.nav_pet_item_title:hover {
 .button_arrow {
     position: static;
     margin-right: 133px;
+    z-index: 0;
 }
 .pets_arrow {
     position: static;
@@ -1443,6 +1444,7 @@ a.nav_pet_item_title:hover {
 .button_arrow_two {
     position: static;
     margin-left: -143px;
+    z-index: 0;
 }
 .get_to_know_button {
     width: 260px;
