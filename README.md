@@ -30,7 +30,7 @@
 
 <h1 align="center" id="stack">Технология</h1>
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th width="200px">Frontend</th>
