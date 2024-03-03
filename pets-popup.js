@@ -1,4 +1,4 @@
-import dataset from "./dataset.js";
+import dataset from "../dataset.js";
 const data = dataset.dataset
 
 

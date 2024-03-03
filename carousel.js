@@ -1,4 +1,4 @@
-import dataset from "./dataset.js";
+import dataset from "../dataset.js";
 const data = dataset.dataset
 const BTN_LEFT = document.querySelector("#btn_left");
 const BTN_RIGHT = document.querySelector("#btn_right");

@@ -1,4 +1,4 @@
-import dataset from "./dataset.js";
+import dataset from "../dataset.js";
 const data = dataset.dataset;
 const PETS_CARD_CONTAINER = document.querySelector(".our_pets_card_container");
 const FIRST_PAGE = document.querySelector("#first_page");
