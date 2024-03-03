@@ -8,11 +8,10 @@
   <a href="#about">О проекте</a>
   •
   <a href="#stack">Технология</a>
-  •
 </h3>
 
 <h3 align="center">
-  <a href="alima987-shelter.netlify.app" title="Link">Deploy</a> 
+  <a href="https://alima987-shelter.netlify.app/" title="Link">Deploy</a> 
   •
   <a href="https://www.figma.com/file/Yk6EnbY63FyG2PJTFkJDMh/shelter">Ссылка на макет в Figma</a>
 </h3>
